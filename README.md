@@ -1,5 +1,5 @@
 # Interview Challenge
-### NOTE ALL DATA IS GENERATED AND IS NOT FROM ANY PRODUCTION SYSTEMS
+### NOTE ALL DATA IS RANDOMLY GENERATED AND IS NOT FROM ANY PRODUCTION SYSTEMS
 This is a challenge for potential candidates. The file uploaded to this github repository is where you will start your investigation. It is access logs for a company website. We believe one of the users accessed another user's account and proceeded to download data. You must find who downloaded the data and what the data that it contained was.
 
 ## Requirements
@@ -17,3 +17,7 @@ To access the API you will require a header containing the following:
 ```X-API-Key: 4c5162f0```
 
 Nothing further should be needed for the API header.
+
+For this project you can assume that all usernames, IP addresses, and user agents should be the same except in the case of the malicious user using another users credentials. 
+
+
