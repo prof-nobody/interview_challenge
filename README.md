@@ -20,4 +20,4 @@ Nothing further should be needed for the API header.
 
 For this project you can assume that all usernames, IP addresses, and user agents should be the same except in the case of the malicious user using another users credentials. 
 
-
+All urls except the one that leads to the downloaded data are made up for the purposes of having content.
